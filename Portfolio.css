@@ -1,0 +1,31 @@
+h1{
+     font: impact;
+	color: #0f5e12
+}
+h1{
+    font-size: 50px;
+    text-shadow: 2px 2px 8px #566d59;
+}
+
+.border { border-width: 25px; 
+        border-color: #0f5e12; 
+        border-style: solid; 
+        text-shadow: 3px 3px #566d59;
+
+}
+.jumbotron{
+    background-color: #87d38a;
+}
+h3{
+    color: #0f5e12;
+    text-shadow: 2px 2px 8px #566d59;
+}
+
+body{
+    background color: #87d38a;
+}
+
+keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
