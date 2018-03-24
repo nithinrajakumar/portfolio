@@ -1,9 +1,9 @@
 h1{
-     font: impact;
+   font-family: "Times New Roman", Times, serif; 
 	color: #0f5e12
 }
 h1{
-    font-size: 75px;
+    font-size: 85px;
     text-shadow: 2px 2px 8px #566d59;
 }
 
